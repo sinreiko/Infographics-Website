@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="284.113 158.628 487.833 403.968">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: gray;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+        font-family: PipeDream, Pipe Dream;
+      }
+
+      .cls-2 {
+        font-size: 40px;
+      }
+
+      .cls-3 {
+        font-size: 46px;
+      }
+
+      .cls-4 {
+        font-size: 43px;
+      }
+
+      .cls-5 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 8.504px;
+      }
+    </style>
+  </defs>
+  <g id="Group_52" data-name="Group 52" transform="translate(284.1 158.7)">
+    <path id="Path_282" data-name="Path 282" class="cls-1" d="M38.2,162,1.9,212.7l66.9-42.1,149,8.7V27.4H19.1Z"/>
+    <path id="Path_283" data-name="Path 283" class="cls-1" d="M130,201.3V334l79.3,9.6-16.2,45.8,49.6-47.8h95.6V201.3Z"/>
+    <path id="Path_284" data-name="Path 284" class="cls-1" d="M235.1,16.8s-20.1,99.4,0,152.8H388.9l36.3,65v-65H452s45.9-97.4,0-164.3Z"/>
+    <text id="I_M_FINE..." data-name="I’M 
+FINE..." class="cls-2" transform="translate(77.721 87.446)"><tspan x="0" y="0">I’M </tspan><tspan x="0" y="48">FINE...</tspan></text>
+    <g id="Group_50" data-name="Group 50">
+      <g id="Group">
+        <text id="i_m_" data-name="i’m " class="cls-3" transform="translate(204.185 262.072)"><tspan x="0" y="0">i’m </tspan></text>
+        <text id="okay" class="cls-3" transform="translate(186.685 303.072)"><tspan x="0" y="0">okay</tspan></text>
+      </g>
+    </g>
+    <g id="Group_51" data-name="Group 51">
+      <g id="Group-2" data-name="Group">
+        <text id="it_s_" data-name="it’s " class="cls-4" transform="translate(314.568 74.725)"><tspan x="0" y="0">it’s </tspan></text>
+        <text id="nothing_" data-name="nothing!" class="cls-4" transform="translate(271.709 123.725)"><tspan x="0" y="0">nothing!</tspan></text>
+      </g>
+    </g>
+    <path id="Path_285" data-name="Path 285" class="cls-5" d="M52.4,161,16.1,211.7l66.8-42.1L232,178.3V26.3H33.3Z"/>
+    <path id="Path_286" data-name="Path 286" class="cls-5" d="M142.2,200.3V333l79.2,9.5-16.2,45.9,49.7-47.8h95.5V200.3Z"/>
+    <path id="Path_287" data-name="Path 287" class="cls-5" d="M246.3,15.8s-20.1,99.4,0,152.8H400.1l36.3,65v-65h26.7s45.9-97.4,0-164.3Z"/>
+  </g>
+</svg>

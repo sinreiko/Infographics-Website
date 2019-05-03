@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="812 196.628 261.679 250.007">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: gray;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 43px;
+        font-family: PipeDream, Pipe Dream;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 8.504px;
+      }
+    </style>
+  </defs>
+  <g id="Group_52" data-name="Group 52" transform="translate(812.033 196.7)">
+    <path id="Path_284" data-name="Path 284" class="cls-1" d="M8.9,16.8s-20.1,99.4,0,152.8H162.7l36.3,65v-65h26.7s45.9-97.4,0-164.3Z"/>
+    <g id="Group_51" data-name="Group 51">
+      <g id="Group">
+        <text id="it_s_" data-name="it’s " class="cls-2" transform="translate(88.342 74.725)"><tspan x="0" y="0">it’s </tspan></text>
+        <text id="nothing_" data-name="nothing!" class="cls-2" transform="translate(45.483 123.725)"><tspan x="0" y="0">nothing!</tspan></text>
+      </g>
+    </g>
+    <path id="Path_285" data-name="Path 285" class="cls-3" d="M20.1,15.8S0,115.2,20.1,168.6H173.9l36.3,65v-65h26.7s45.9-97.4,0-164.3Z"/>
+  </g>
+</svg>

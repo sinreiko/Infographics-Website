@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="580.113 196.748 236.239 204.716">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: gray;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 40px;
+        font-family: PipeDream, Pipe Dream;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 8.504px;
+      }
+    </style>
+  </defs>
+  <g id="Group_50" data-name="Group 50" transform="translate(580.1 196.7)">
+    <path id="Path_282" data-name="Path 282" class="cls-1" d="M38.2,139.9,1.9,190.6l66.9-42,149,8.6V5.3H19.1Z"/>
+    <text id="I_M_FINE..." data-name="I’M 
+FINE..." class="cls-2" transform="translate(77.721 65.355)"><tspan x="0" y="0">I’M </tspan><tspan x="0" y="48">FINE...</tspan></text>
+    <path id="Path_283" data-name="Path 283" class="cls-3" d="M52.4,138.9,16.1,189.6l66.8-42.1L232,156.2V4.3H33.3Z"/>
+  </g>
+</svg>

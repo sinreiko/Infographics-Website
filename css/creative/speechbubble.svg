@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="556.748 37 743.552 724.183">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #59c3c3;
+      }
+
+      .cls-2, .cls-7 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 8.504px;
+      }
+
+      .cls-3 {
+        fill: gray;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: #fff;
+        font-family: PipeDream, Pipe Dream;
+      }
+
+      .cls-4 {
+        font-size: 40px;
+      }
+
+      .cls-5 {
+        font-size: 46px;
+      }
+
+      .cls-6 {
+        font-size: 43px;
+      }
+
+      .cls-7 {
+        stroke-width: 14.173px;
+      }
+    </style>
+  </defs>
+  <g id="Group_17" data-name="Group 17" transform="translate(556.7 37.031)">
+    <circle id="Ellipse_24" data-name="Ellipse 24" class="cls-1" cx="15.9" cy="15.9" r="15.9" transform="translate(4.3 683.1)"/>
+    <circle id="Ellipse_25" data-name="Ellipse 25" class="cls-2" cx="15.9" cy="15.9" r="15.9" transform="translate(4.3 688.1)"/>
+    <circle id="Ellipse_26" data-name="Ellipse 26" class="cls-1" cx="24.5" cy="24.5" r="24.5" transform="translate(60.3 627.4)"/>
+    <circle id="Ellipse_27" data-name="Ellipse 27" class="cls-1" cx="43.9" cy="43.9" r="43.9" transform="translate(123 551.2)"/>
+    <path id="Path_32" data-name="Path 32" class="cls-1" d="M129.1,72.9s42.3-65.2,148-33.5c0,0,119.8-82.6,248.5-8.7,0,0,165.6-21.3,155.1,146.2,0,0,109.3,135.7-33.5,285.5,0,0-17.6,107.5-213.2,112.8,0,0-163.9,49.3-236.1-89.9,0,0-111.7,1.8-83.2-155.1,0,0-66.1-33.5-47.8-169.2C66.8,161,56.9,92.3,129.1,72.9Z"/>
+    <path id="Path_33" data-name="Path 33" class="cls-3" d="M191.7,321.5l-36.3,50.6,66.9-42,149,8.7v-152H172.6Z"/>
+    <path id="Path_34" data-name="Path 34" class="cls-3" d="M283.5,360.7V493.5l79.3,9.5-16.2,45.9,49.7-47.8h95.5V360.7Z"/>
+    <path id="Path_35" data-name="Path 35" class="cls-3" d="M388.7,176.3s-20.1,99.4,0,152.8H542.5l36.3,65v-65h26.7s45.9-97.4,0-164.3Z"/>
+    <text id="I_M_FINE..." data-name="I’M 
+FINE..." class="cls-4" transform="translate(231.235 246.905)"><tspan x="0" y="0">I’M </tspan><tspan x="0" y="48">FINE...</tspan></text>
+    <g id="Group_15" data-name="Group 15">
+      <g id="Group">
+        <text id="i_m_" data-name="i’m " class="cls-5" transform="translate(357.699 421.531)"><tspan x="0" y="0">i’m </tspan></text>
+        <text id="okay" class="cls-5" transform="translate(340.199 462.531)"><tspan x="0" y="0">okay</tspan></text>
+      </g>
+    </g>
+    <g id="Group_16" data-name="Group 16">
+      <g id="Group-2" data-name="Group">
+        <text id="it_s_" data-name="it’s " class="cls-6" transform="translate(468.082 234.184)"><tspan x="0" y="0">it’s </tspan></text>
+        <text id="nothing_" data-name="nothing!" class="cls-6" transform="translate(425.223 283.184)"><tspan x="0" y="0">nothing!</tspan></text>
+      </g>
+    </g>
+    <path id="Path_36" data-name="Path 36" class="cls-2" d="M205.9,320.5l-36.3,50.6,66.8-42,149.1,8.6V185.8H186.8Z"/>
+    <path id="Path_37" data-name="Path 37" class="cls-2" d="M295.7,359.7V492.5L375,502l-16.3,45.9,49.7-47.8h95.5V359.7Z"/>
+    <path id="Path_38" data-name="Path 38" class="cls-2" d="M399.8,175.3s-20.1,99.4,0,152.8H553.6l36.3,65v-65h26.7s45.9-97.4,0-164.3Z"/>
+    <circle id="Ellipse_28" data-name="Ellipse 28" class="cls-2" cx="24.5" cy="24.5" r="24.5" transform="translate(65 634.2)"/>
+    <circle id="Ellipse_29" data-name="Ellipse 29" class="cls-2" cx="43.9" cy="43.9" r="43.9" transform="translate(131.1 563.2)"/>
+    <path id="Path_39" data-name="Path 39" class="cls-7" d="M144.9,94.1s42.3-65.2,148-33.5c0,0,119.8-82.6,248.5-8.7,0,0,165.6-21.3,155.1,146.2,0,0,109.3,135.7-33.5,285.5,0,0-17.6,107.5-213.2,112.8,0,0-163.9,49.3-236.1-89.9,0,0-111.7,1.8-83.2-155.1,0,0-66.1-33.5-47.8-169.2C82.6,182.2,72.6,113.5,144.9,94.1Z"/>
+  </g>
+</svg>

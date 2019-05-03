@@ -1,0 +1,534 @@
+@font-face
+{
+font-family: PT Sans;
+src: url('fonts/PTC55F.ttf');
+}
+
+@font-face
+{
+    font-family: Digitalt;
+    src: url('fonts/Digitalt.ttf');
+}
+*{
+    margin:0;
+}
+
+body{
+    font-family: PT Sans, sans-serif;
+    color:white;
+    width:100%;
+    margin:0;
+    padding:0;
+    overflow-x: hidden;
+}
+
+p{
+    font-size:1.2em;
+}
+.title{
+    font-family:Digitalt;
+}
+
+.bg{
+    height:768px;
+    width:100%;
+}
+/* bg-color */
+.bg-layout .bubble{
+    background: url(creative/Web%201366%20%E2%80%93%201.svg) no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.bg-layout .causes{
+    background:#8ACBCC;
+
+}
+
+.bg-layout .common{
+ background:url(creative/Web%201366%20%E2%80%93%203.svg)  no-repeat;
+    background-size: cover;
+
+}
+
+.bg-layout .cancer-causes{
+    background:#FFFFFF;
+}
+
+.bg-layout .prevention{
+    background:url(creative/Web%201366%20%E2%80%93%205.svg)  no-repeat;
+    background-size: cover;
+
+}
+
+.bg-layout .prevention-extra{
+    background:url(creative/Web%201366%20%E2%80%93%206.svg)  no-repeat;
+    background-size: cover;
+
+}
+/* bg-color*/
+
+/*bubble content*/
+.speech-bubble{
+    background:url(creative/speech-bubble-bg.svg)  no-repeat;
+    position:relative;
+    top:5%;
+    width:600px;
+    height:600px;
+    margin:0 100% 0 10%;
+}
+
+#bubble-dialog1{
+    background:url(creative/bubble-dialog1.svg) no-repeat;
+    width:auto;
+    height:140px;
+    position:relative;
+    top:140px;
+    left:150px;
+}
+#bubble-dialog2{
+    background:url(creative/bubble-dialog2.svg) no-repeat;
+    width:auto;
+    height:170px;
+    position:relative;
+    top:0px;
+    left:320px;
+}
+#bubble-dialog3{
+    background:url(creative/bubble-dialog3.svg) no-repeat;
+    width:auto;
+    height:150px;
+    position:relative;
+    top:-40px;
+    left:260px;
+}
+.ghost-speech{
+    position:absolute;
+    right:10%;
+        
+}
+#ghost1{
+    position:relative;
+    top:-60px;
+    width:150px;
+    left:270px;
+}
+
+#dialog-container{
+    position:relative;
+    top:-470px;
+    left:-100px;
+    width:400px;
+}
+
+#dialog-container p{
+    position:absolute;
+    z-index:5;
+    margin:90px 50px;
+    text-align:justify;
+}
+#dialog1{
+    position:relative;
+
+}
+/*bubble content*/
+
+/*causes content*/
+#causes-content{
+    position:relative;
+    top:-50px;
+    padding: 0 10%;
+}
+h1{
+    font-family: DigitalT;
+    font-size:3em;
+    letter-spacing: .05em;
+}
+
+#bar-chart-horizontal{
+    margin:50px 0;
+    width:auto!important;
+    height:500px!important;
+}
+/*causes content*/
+
+#common-content{
+    position:relative;
+    float:right;
+    top:-200px;
+    right:2%;
+    width:600px;
+
+}
+
+#common-extra{
+    background-color:rgba(1,1,1,0.1);
+    border-radius:20px;
+    padding:15px;
+    position:relative;
+    top:-100px;
+    margin:0;
+    width:400px;
+    text-align: left;
+}
+
+span li{
+    font-size:0.9em;
+}
+
+.go-up{
+    transform: translateY(-150px);
+    transition:transform 1s ease-out;
+}
+#common-content h1{
+    position:relative;
+    top:-130px;
+}
+
+.slant{
+    transform-origin: bottom left;
+    transform:rotate(90deg) translateY(-500px) translateX(-100px);
+    transition:transform 1s ease-in;
+}
+
+.gender{
+    position: relative;
+    top:300px;
+    width:700px;
+    height:500px;
+    margin:0 5%;
+}
+.human{
+    margin:-80px 10%; 
+    position:absolute; 
+    display:inline-flex;
+    width:500px; 
+    height:500px;
+}
+
+.lung{
+    background:url(creative/lung.svg) no-repeat;
+    position:relative;
+    top:120px;
+    left:50px;
+    width:95px;
+    height:105px;
+}
+
+.lung:hover{
+    cursor:help;
+
+}
+
+.lung:hover{
+    background:url(creative/lung2.svg) no-repeat;
+    transform:scale(1.2);
+    transition: transform 0.5s ease-out;
+}
+
+.colon:hover{
+    background:url(creative/colon2.svg) no-repeat;
+    transform:scale(1.2);
+    cursor:help;
+    transition: transform 0.5s ease-out;
+}
+
+.pointers:hover{
+    background-color:rgba(255,255,255,1);
+    transform:scale(1.2);
+    transition: transform 0.5s ease-out;
+    cursor:help;
+}
+
+#lung2{
+    left:82px;
+}
+
+.colon{
+    background:url(creative/colon.svg) no-repeat;
+    
+    background-size:cover;
+    position:relative;
+    top:206px;
+    left:-34px;
+    height:80px;
+    width:70px;
+}
+
+#colon2{
+    top:210px;
+    left:-5px;
+    width:80px;
+    height:90px;
+}
+.pointers{
+    position:absolute;
+    width:40px;
+    height:40px;
+    background-color:rgba(255,255,255,0.5);
+    border-radius:50px;
+}
+#breast{
+    top:160px;
+    left:130px;
+}
+
+#prostate{
+    top:240px;
+    left:75px;
+}
+
+#male{
+    background:url(creative/male.svg) no-repeat;
+}
+
+#female{
+    background:url(creative/female.svg) no-repeat;
+    left:325px;
+    width:250px;
+}
+/*common content*/
+
+/*cancer-causes content*/
+.cancer-causes{
+    color:#FF686B;
+}
+
+.cancer-causes h1{
+    margin: 2% 10%;
+}
+
+.ghost-bubble{
+    position:relative;
+    z-index:1;
+    float:right;
+    top:50px;
+}
+#ghost{
+    background: url(creative/ghost.svg) no-repeat;
+    margin:10% 200px 0 0;
+    position:relative;
+    z-index:1;
+    width:500px;
+    height:500px;
+}
+.bacteria.green{
+    background:url(creative/green-bacteria.svg) no-repeat;
+    position:relative;
+    z-index:10;
+    width:200px;
+    height:100px;
+}
+
+.bacteria:hover{
+    cursor:pointer;
+}
+.green#one{
+    top:200px;
+    left:600px;
+    animation: green1 2s linear infinite;
+        transform:rotate(80deg);
+
+}
+
+.green#two{
+    top:-100px;
+    left:800px;
+    transform:rotate(80deg) scale(1.2);
+    animation: green2 2s linear infinite;
+}
+
+.green#three{
+    top:250px;
+    left:1200px;
+    transform:scaleX(-1);
+    animation: green3 5s linear infinite;
+}
+
+@keyframes green3{
+    0% { transform:rotate(0deg) scaleX(-1) translate(0px);}
+    30%{ transform:rotate(20deg) scaleX(-1) translate(10px,20px);}
+    50%{ transform:rotate(40deg) scaleX(-1) translate(20px, 10px);}
+    100% {transform:rotate(0deg) scaleX(-1) translate(0px) ;}
+}
+
+@keyframes green2{
+    0% { transform:rotate(80deg) scale(1.2) translate(0px);}
+    30%{ transform:rotate(50deg) scale(1.2) translate(10px,20px);}
+    50%{ transform:rotate(80deg) scale(1.2) translate(20px, 10px);}
+    100% {transform:rotate(80deg) scale(1.2) translate(0px) ;}
+}
+
+@keyframes green1{
+    0% { transform:rotate(80deg) translate(0px);}
+    30%{ transform:rotate(30deg) translate(10px,20px);}
+    50%{ transform:rotate(20deg) translate(20px, 10px);}
+    100% {transform:rotate(80deg) translate(0px) ;}
+}
+
+
+.bacteria.red{
+    background:url(creative/red-bacteria.svg) no-repeat;
+    position:relative;
+    z-index:10;
+    width:100px;
+    height:100px;
+   
+}
+
+@keyframes red1{
+    0% { transform:rotate(0deg) scaleX(-1) translate(0px);}
+    30%{ transform:rotate(30deg) scaleX(-1) translate(30px,40px);}
+    50%{ transform:rotate(20deg) scaleX(-1) translate(40px, 30px);}
+    100% {transform:rotate(0deg) scaleX(-1) translate(0px) ;}
+}
+
+.red#one{
+    top:150px;
+    left:680px;
+    transform:scale(-1.2, 1.3);
+    animation: red1 5s linear infinite;
+}
+
+.red#two{
+    top:-250px;
+    left:1200px;
+    animation: red2 5s linear infinite;
+}
+
+@keyframes red2{
+    0% { transform:rotate(0deg) translate(0px);}
+    30%{ transform:rotate(30deg) translate(30px,40px);}
+    50%{ transform:rotate(20deg) translate(40px, 30px);}
+    100% {transform:rotate(0deg) translate(0px) ;}
+}
+
+.read-more-state{
+    display:none;
+}
+.small-container{
+    position:absolute;
+    font-size:0.9em;
+    z-index:12;
+    left:10%;
+    width:300px;
+    background-color:rgba(0.1,0.1,0.1,0.1);
+    border-radius:20px;
+    padding:15px;
+    
+}
+.small-container p {
+    color:#808080;
+}
+.read-more-trigger {
+  cursor: pointer;
+  display: inline-block;
+  padding: 0 .5em;
+  color: #666;
+  font-size: .9em;
+  line-height: 2;
+  border: 1px solid #ddd;
+  border-radius: .25em;
+    background-color:white;
+}
+
+.read-more-target {
+  display:none;
+  transition: .25s ease;
+}
+
+.read-more-state:checked ~ .read-more-target {
+  display:block;
+  font-size: inherit;
+  max-height: 999em;
+}
+
+.read-more-state ~ .read-more-trigger:before {
+  content: 'Show more';
+}
+
+.read-more-state:checked ~ .read-more-trigger:before {
+  content: 'Show less';
+}
+/*cancer-causes content*/
+
+/*prevention content*/
+#prevention-content{
+    position:relative;
+    top:12%;
+    margin:0 10%;
+    height:300px;
+}
+.prevention p{
+    margin:20px 10% 0 0;
+}
+ul{
+    width:100%;
+    display:inline-flex;
+    justify-content: center;
+
+}
+
+ul li{
+    margin-top:0.9em;
+    color:#FF686B;
+    font-family:DigitalT;
+    letter-spacing:0.1em;
+    list-style: none;
+    text-align:center;
+}
+.icons{
+    align-items: center;
+    width:100px;
+    height:100px;
+        padding: 0 30%;
+
+}
+.prevention-extra{
+    height:300px;
+}
+
+#extra-content{
+    position:relative;
+    top:100px;
+    height:250px;
+}
+
+#extra-content h2{
+    margin:0 10%;
+    color:#59C3C3;
+}
+#map {
+    margin:2% 0;
+	height: 400px;
+    width:700px
+}
+
+#happy-ghost{
+    background:url(creative/happy-ghost.svg) no-repeat center;
+    right:5%;
+    width:200px;
+    height:200px;
+    position:relative;
+    top:-220px;
+    float:right;
+}
+
+#happy-ghost h2{
+    position:relative;
+    top:-100px;
+    text-align: center;
+    letter-spacing: 0.1em;
+}
+/*prevention content*/
+
+/*extras*/
+.read-more-state ~ .symp:before {
+  content: 'Show Symptoms';
+}
+
+.read-more-state:checked ~ .symp:before {
+  content: 'Hide Symptoms';
+}
+
+/*extras*/
